@@ -22,7 +22,7 @@ namespace Tyuiu.DeminDA.Sprint1.Task5.V5
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #95                                                            *");
+            Console.WriteLine("* Вариант #95                                                             *");
             Console.WriteLine("* Выполнил: Дёмин Денис Александрович | ИИПБ-23-2                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
@@ -32,7 +32,7 @@ namespace Tyuiu.DeminDA.Sprint1.Task5.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Исходные данные:                                                         *");
+            Console.WriteLine("* Исходные данные:                                                        *");
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите число x");
