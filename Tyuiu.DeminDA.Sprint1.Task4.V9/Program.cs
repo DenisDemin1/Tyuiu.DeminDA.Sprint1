@@ -7,6 +7,8 @@ namespace Tyuiu.DeminDA.Sprint1.Task4.V9
     {
         private static void Main(string[] args)
         {
+            System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
+
             var ds = new DataService();
 
 
@@ -29,10 +31,10 @@ namespace Tyuiu.DeminDA.Sprint1.Task4.V9
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите число x");
-            var x = Convert.ToInt32(Console.ReadLine());
+            double x = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Введите число y");
-            var y = Convert.ToInt32(Console.ReadLine());
+            double y = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                               *");
