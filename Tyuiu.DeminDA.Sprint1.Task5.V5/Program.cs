@@ -36,7 +36,7 @@ namespace Tyuiu.DeminDA.Sprint1.Task5.V5
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Введите число x");
-            double x = Convert.ToDouble(Console.ReadLine());
+            double x =Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                               *");
